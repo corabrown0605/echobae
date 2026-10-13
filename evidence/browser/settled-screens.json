@@ -1,0 +1,110 @@
+[
+  {
+    "url": "https://echobae.com/",
+    "device": "desktop",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "evidence/browser/desktop-8a5edab282-settled.png"
+  },
+  {
+    "url": "https://echobae.com/products",
+    "device": "desktop",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "evidence/browser/desktop-d66ca189b1-settled.png"
+  },
+  {
+    "url": "https://echobae.com/collections/new-arrival",
+    "device": "desktop",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "evidence/browser/desktop-8f6d729883-settled.png"
+  },
+  {
+    "url": "https://echobae.com/p/159cm-lifelike-silicone-sex-doll-lydia",
+    "device": "desktop",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "evidence/browser/desktop-5b0c2ba7b3-settled.png"
+  },
+  {
+    "url": "https://echobae.com/blog/tpe-vs-silicone-sex-doll",
+    "device": "desktop",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "evidence/browser/desktop-85ecc6aca5-settled.png"
+  },
+  {
+    "url": "https://echobae.com/customer-reviews",
+    "device": "desktop",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "screenshot": "evidence/browser/desktop-158470beca-settled.png"
+  },
+  {
+    "url": "https://echobae.com/",
+    "device": "mobile",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "screenshot": "evidence/browser/mobile-8a5edab282-settled.png"
+  },
+  {
+    "url": "https://echobae.com/products",
+    "device": "mobile",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "screenshot": "evidence/browser/mobile-d66ca189b1-settled.png"
+  },
+  {
+    "url": "https://echobae.com/collections/new-arrival",
+    "device": "mobile",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "screenshot": "evidence/browser/mobile-8f6d729883-settled.png"
+  },
+  {
+    "url": "https://echobae.com/p/159cm-lifelike-silicone-sex-doll-lydia",
+    "device": "mobile",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "screenshot": "evidence/browser/mobile-5b0c2ba7b3-settled.png"
+  },
+  {
+    "url": "https://echobae.com/blog/tpe-vs-silicone-sex-doll",
+    "device": "mobile",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "screenshot": "evidence/browser/mobile-85ecc6aca5-settled.png"
+  },
+  {
+    "url": "https://echobae.com/customer-reviews",
+    "device": "mobile",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "screenshot": "evidence/browser/mobile-158470beca-settled.png"
+  }
+]

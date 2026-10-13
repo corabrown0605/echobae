@@ -1,0 +1,1 @@
+const i=["linkedin","x","facebook","youtube","instagram","pinterest","tiktok"],e={linkedin:"LinkedIn",x:"X",facebook:"Facebook",youtube:"YouTube",instagram:"Instagram",pinterest:"Pinterest",tiktok:"TikTok"};function o(t){return i.includes(t)}const n=/^[^\s@]+@[^\s@]+\.[^\s@]+$/;function s(t){return n.test(t.trim())}export{e as S,o as a,s as i};

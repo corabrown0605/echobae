@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://developers.google.com/search/docs/crawling-indexing/robots/intro",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://developers.google.com/search/docs/crawling-indexing/block-indexing",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://developers.google.com/search/docs/appearance/structured-data/sd-policies",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://developers.google.com/search/docs/appearance/structured-data/product",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://developers.google.com/search/docs/appearance/structured-data/faqpage",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://developers.google.com/search/docs/crawling-indexing/safesearch",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]

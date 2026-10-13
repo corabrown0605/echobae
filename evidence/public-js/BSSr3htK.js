@@ -1,0 +1,1 @@
+import{f as o,q as n,g as r,a8 as u,D as _}from"./DNfd1SfM.js";const m=o({__name:"[slug]",async setup(c){let t,s;const a=n().params.slug,e=r();return[t,s]=u(()=>_(e(`/${a}`),{})),await t,s(),()=>{}}});export{m as default};

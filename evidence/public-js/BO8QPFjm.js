@@ -1,0 +1,1 @@
+import{q as r,I as i,aW as f,B as s}from"./DNfd1SfM.js";function d(e,n){const o=r();async function t(){n(o.fullPath)&&await e()}i(()=>{t()}),f(()=>{t()}),s(()=>o.fullPath,(u,a)=>{!a||u===a||n(u)&&t()})}export{d as u};

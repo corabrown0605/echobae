@@ -1,0 +1,1 @@
+function n(s,e){const t=s?.trim();if(!t)return"";if(t.startsWith("//"))return`https:${t}`;const r=t.match(/^https?:\/\/(?:localhost|127\.0\.0\.1)(?::\d+)?(\/.*)$/i);if(r)return r[1];if(/^https?:\/\//i.test(t))return t;if(t.startsWith("/")){const i="".replace(/\/api\/v1\/?$/,"");return i?`${i}${t}`:t}return t}export{n as r};

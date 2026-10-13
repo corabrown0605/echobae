@@ -1,0 +1,218 @@
+[
+  {
+    "page": "home",
+    "url": "https://echobae.com/",
+    "device": "mobile",
+    "run": 1,
+    "exit": 0,
+    "seconds": 20.890254020690918,
+    "stderr": ""
+  },
+  {
+    "page": "home",
+    "url": "https://echobae.com/",
+    "device": "mobile",
+    "run": 2,
+    "exit": 0,
+    "seconds": 21.17949891090393,
+    "stderr": ""
+  },
+  {
+    "page": "home",
+    "url": "https://echobae.com/",
+    "device": "mobile",
+    "run": 3,
+    "exit": 0,
+    "seconds": 21.20459222793579,
+    "stderr": ""
+  },
+  {
+    "page": "home",
+    "url": "https://echobae.com/",
+    "device": "desktop",
+    "run": 1,
+    "exit": 0,
+    "seconds": 20.81139898300171,
+    "stderr": ""
+  },
+  {
+    "page": "home",
+    "url": "https://echobae.com/",
+    "device": "desktop",
+    "run": 2,
+    "exit": 0,
+    "seconds": 23.34728217124939,
+    "stderr": ""
+  },
+  {
+    "page": "home",
+    "url": "https://echobae.com/",
+    "device": "desktop",
+    "run": 3,
+    "exit": 0,
+    "seconds": 22.52408218383789,
+    "stderr": ""
+  },
+  {
+    "page": "collection",
+    "url": "https://echobae.com/collections/new-arrival",
+    "device": "mobile",
+    "run": 1,
+    "exit": 0,
+    "seconds": 22.209308385849,
+    "stderr": ""
+  },
+  {
+    "page": "collection",
+    "url": "https://echobae.com/collections/new-arrival",
+    "device": "mobile",
+    "run": 2,
+    "exit": 0,
+    "seconds": 21.365731477737427,
+    "stderr": ""
+  },
+  {
+    "page": "collection",
+    "url": "https://echobae.com/collections/new-arrival",
+    "device": "mobile",
+    "run": 3,
+    "exit": 0,
+    "seconds": 22.463069677352905,
+    "stderr": ""
+  },
+  {
+    "page": "collection",
+    "url": "https://echobae.com/collections/new-arrival",
+    "device": "desktop",
+    "run": 1,
+    "exit": 0,
+    "seconds": 22.186752319335938,
+    "stderr": ""
+  },
+  {
+    "page": "collection",
+    "url": "https://echobae.com/collections/new-arrival",
+    "device": "desktop",
+    "run": 2,
+    "exit": 0,
+    "seconds": 22.375155687332153,
+    "stderr": ""
+  },
+  {
+    "page": "collection",
+    "url": "https://echobae.com/collections/new-arrival",
+    "device": "desktop",
+    "run": 3,
+    "exit": 0,
+    "seconds": 23.345069885253906,
+    "stderr": ""
+  },
+  {
+    "page": "product",
+    "url": "https://echobae.com/p/159cm-lifelike-silicone-sex-doll-lydia",
+    "device": "mobile",
+    "run": 1,
+    "exit": 0,
+    "seconds": 24.464317083358765,
+    "stderr": ""
+  },
+  {
+    "page": "product",
+    "url": "https://echobae.com/p/159cm-lifelike-silicone-sex-doll-lydia",
+    "device": "mobile",
+    "run": 2,
+    "exit": 0,
+    "seconds": 23.373101711273193,
+    "stderr": ""
+  },
+  {
+    "page": "product",
+    "url": "https://echobae.com/p/159cm-lifelike-silicone-sex-doll-lydia",
+    "device": "mobile",
+    "run": 3,
+    "exit": 0,
+    "seconds": 22.524006128311157,
+    "stderr": ""
+  },
+  {
+    "page": "product",
+    "url": "https://echobae.com/p/159cm-lifelike-silicone-sex-doll-lydia",
+    "device": "desktop",
+    "run": 1,
+    "exit": 0,
+    "seconds": 22.867408514022827,
+    "stderr": ""
+  },
+  {
+    "page": "product",
+    "url": "https://echobae.com/p/159cm-lifelike-silicone-sex-doll-lydia",
+    "device": "desktop",
+    "run": 2,
+    "exit": 0,
+    "seconds": 21.94907569885254,
+    "stderr": ""
+  },
+  {
+    "page": "product",
+    "url": "https://echobae.com/p/159cm-lifelike-silicone-sex-doll-lydia",
+    "device": "desktop",
+    "run": 3,
+    "exit": 0,
+    "seconds": 24.771539211273193,
+    "stderr": ""
+  },
+  {
+    "page": "article",
+    "url": "https://echobae.com/blog/tpe-vs-silicone-sex-doll",
+    "device": "mobile",
+    "run": 1,
+    "exit": 0,
+    "seconds": 20.105375051498413,
+    "stderr": ""
+  },
+  {
+    "page": "article",
+    "url": "https://echobae.com/blog/tpe-vs-silicone-sex-doll",
+    "device": "mobile",
+    "run": 2,
+    "exit": 0,
+    "seconds": 18.94507908821106,
+    "stderr": ""
+  },
+  {
+    "page": "article",
+    "url": "https://echobae.com/blog/tpe-vs-silicone-sex-doll",
+    "device": "mobile",
+    "run": 3,
+    "exit": 0,
+    "seconds": 19.102144241333008,
+    "stderr": ""
+  },
+  {
+    "page": "article",
+    "url": "https://echobae.com/blog/tpe-vs-silicone-sex-doll",
+    "device": "desktop",
+    "run": 1,
+    "exit": 0,
+    "seconds": 20.395101070404053,
+    "stderr": ""
+  },
+  {
+    "page": "article",
+    "url": "https://echobae.com/blog/tpe-vs-silicone-sex-doll",
+    "device": "desktop",
+    "run": 2,
+    "exit": 0,
+    "seconds": 19.26663565635681,
+    "stderr": ""
+  },
+  {
+    "page": "article",
+    "url": "https://echobae.com/blog/tpe-vs-silicone-sex-doll",
+    "device": "desktop",
+    "run": 3,
+    "exit": 0,
+    "seconds": 18.65279221534729,
+    "stderr": ""
+  }
+]

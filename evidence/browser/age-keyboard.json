@@ -1,0 +1,80 @@
+{
+  "tabs": [
+    {
+      "tag": "BUTTON",
+      "text": "I am 18 or older",
+      "aria": null,
+      "insideAge": true
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Leave Site",
+      "aria": null,
+      "insideAge": true
+    },
+    {
+      "tag": "A",
+      "text": "Shop now",
+      "aria": null,
+      "insideAge": false
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "aria": null,
+      "insideAge": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "aria": "Search",
+      "insideAge": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "aria": "Currency",
+      "insideAge": false
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "aria": "Cart",
+      "insideAge": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "aria": "Menu",
+      "insideAge": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "aria": "Previous slide",
+      "insideAge": false
+    },
+    {
+      "tag": "A",
+      "text": "Explore",
+      "aria": null,
+      "insideAge": false
+    },
+    {
+      "tag": "A",
+      "text": "Shop Now",
+      "aria": null,
+      "insideAge": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "aria": "Next slide",
+      "insideAge": false
+    }
+  ],
+  "afterConfirmationReload": {
+    "ageVisible": 0,
+    "storagePresent": true
+  }
+}
